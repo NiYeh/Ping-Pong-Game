@@ -1,0 +1,17 @@
+﻿  main.c
+D:\Programming\Visual Studio 2019\C&C++\Game\Raylib\乒乓球遊戲\source\main.c(67,36): warning C4244: '函式': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\Programming\Visual Studio 2019\C&C++\Game\Raylib\乒乓球遊戲\source\main.c(67,47): warning C4244: '函式': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\Programming\Visual Studio 2019\C&C++\Game\Raylib\乒乓球遊戲\source\main.c(67,62): warning C4244: '函式': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\Programming\Visual Studio 2019\C&C++\Game\Raylib\乒乓球遊戲\source\main.c(67,78): warning C4244: '函式': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\Programming\Visual Studio 2019\C&C++\Game\Raylib\乒乓球遊戲\source\main.c(68,37): warning C4244: '函式': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\Programming\Visual Studio 2019\C&C++\Game\Raylib\乒乓球遊戲\source\main.c(68,49): warning C4244: '函式': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\Programming\Visual Studio 2019\C&C++\Game\Raylib\乒乓球遊戲\source\main.c(68,65): warning C4244: '函式': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\Programming\Visual Studio 2019\C&C++\Game\Raylib\乒乓球遊戲\source\main.c(68,82): warning C4244: '函式': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\Programming\Visual Studio 2019\C&C++\Game\Raylib\乒乓球遊戲\source\main.c(154,39): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Programming\Visual Studio 2019\C&C++\Game\Raylib\乒乓球遊戲\source\main.c(33,1): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Programming\Visual Studio 2019\C&C++\Game\Raylib\乒乓球遊戲\source\main.c(34,1): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  正在產生程式碼
+  Previous IPDB not found, fall back to full compilation.
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  raylib-template.vcxproj -> D:\Programming\Visual Studio 2019\C&C++\Game\Raylib\乒乓球遊戲\x64\Release\Pong.exe
