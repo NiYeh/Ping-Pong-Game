@@ -3,11 +3,9 @@
 
 
 ### 圖片
+![gameing](https://github.com/NiYeh/Ping-Pong-Game/assets/108889900/c88d7ee3-0c7d-40a5-818d-cd705198a49d)
 
-![gameing](D:\Programming\Visual Studio 2019\C&C++\Game\Raylib\乒乓球遊戲\x64\乒乓球遊戲\src\gameing.png)
-
-![winner](D:\Programming\Visual Studio 2019\C&C++\Game\Raylib\乒乓球遊戲\x64\乒乓球遊戲\src\winner.png)
+![winner](https://github.com/NiYeh/Ping-Pong-Game/assets/108889900/0198668a-655a-4795-aac0-a33aecf9b6d9)
 
 ### 影片
-
-<video src="D:\Programming\Visual Studio 2019\C&amp;C++\Game\Raylib\乒乓球遊戲\x64\乒乓球遊戲\src\Timeline 1.mp4"></video>
+https://github.com/NiYeh/Ping-Pong-Game/assets/108889900/e858d497-39a5-4e75-83f2-6949645fe3fc
